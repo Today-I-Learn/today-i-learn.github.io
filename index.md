@@ -2,122 +2,36 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## TIL...
 
-[Link to another page](./another-page.html).
+`TIL` 은 공유하는 문화 속에서 성장하는 것을 목표로 만들어진 스터디 그룹입니다.
 
-There should be whitespace between paragraphs.
+## Contributors 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+<br>
+<div align="center">
+<a href="https://github.com/Today-I-Learn/dev-reading-record/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Today-I-Learn/dev-reading-record" />
+</a>
+</div>
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+<br>
+<br>
 
 
-### Definition lists can be used with HTML syntax.
+## About us
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+현재 스터디는 "백엔드 기술 면접 질문과 답변", "개발 도서 읽고 토론하기" 라는 두 가지 주제를 가지고 운영중에 있습니다.
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+아래의 링크를 통해서 스터디의 결과물을 확인하실 수 있습니다. 
 
-```
-The final element.
-```
+* [백엔드 기술 면접 질문과 답변](https://github.com/Today-I-Learn/backend-study)
+* [책을 읽읍시다](https://github.com/Today-I-Learn/dev-reading-record)
+
+<br>
+
+## Contents
+
+* [토비의 스프링 3.1 회고 (준비중)]()
+
+
