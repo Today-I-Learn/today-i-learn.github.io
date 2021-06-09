@@ -37,6 +37,6 @@ layout: default
 
 ## Contents
 
-* [토비의 스프링 3.1 회고](/toby-spring-3.1.html)
-
+* 토비의 스프링 3.1 회고
+  * [Jiho Shin 님의 회고](/jhhj424-toby-spring-3.1.html)
 
