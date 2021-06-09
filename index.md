@@ -39,4 +39,5 @@ layout: default
 
 * 토비의 스프링 3.1 회고
   * [Jiho Shin 님의 회고](/jhhj424-toby-spring-3.1.html)
+  * [Sangwon Jeong 님의 회고](/vincentj2-toby-spring-3.1.html)
 
